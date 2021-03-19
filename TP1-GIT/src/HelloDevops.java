@@ -6,6 +6,11 @@ public class HelloDevops {
 System.out.println(" Hello Devops with Git & GitHub ");
 		
 System.out.println(" I am the master ,I am adding one commande ");
+		
+		
+System.out.println(" I am the master ,I am adding my second commande ");
+
+		
 
 	}
 
